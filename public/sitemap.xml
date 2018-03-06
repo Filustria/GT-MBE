@@ -69,4 +69,8 @@
     <priority>0</priority>
   </url>
   
+  <url>
+    <loc>/ebm-programa/</loc>
+  </url>
+  
 </urlset>
