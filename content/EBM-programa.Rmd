@@ -1,5 +1,5 @@
 ---
-title: "programação GT-EBM"
+title: "Programação do GT de Raciocínio Clínico e Medicina Baseada em Evidências"
 author: "Adelson Guaraci Jantsch"
 date: "6 de março de 2018"
 output: html_document
