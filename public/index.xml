@@ -17,17 +17,16 @@
       <pubDate>Fri, 30 Dec 2016 21:49:57 -0700</pubDate>
       
       <guid>/2016/12/30/a-plain-markdown-post/</guid>
-      <description>This is a post written in plain Markdown (*.md) instead of R Markdown (*.Rmd). The major differences are:
- You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (```{r}); A plain Markdown post is rendered through Blackfriday, and an R Markdown document is compiled by rmarkdown and Pandoc.  There are many differences in syntax between Blackfriday&amp;rsquo;s Markdown and Pandoc&amp;rsquo;s Markdown.</description>
+      <description>Site do GT de Raciocínio Clínico e Medicina Baseada em Evidências do PRMFC-SMS/RJ. Aqui serão postadas informações sobre o conteúdo programático das oficinas do GT, bem como será postado material didático para as atividades.</description>
     </item>
     
     <item>
-      <title>About</title>
+      <title>Sobre</title>
       <link>/about/</link>
       <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
       
       <guid>/about/</guid>
-      <description>This is a &amp;ldquo;hello world&amp;rdquo; example website for the blogdown package. The theme was forked from @jrutheiser/hugo-lithium-theme and modified by Yihui Xie.</description>
+      <description>Site do GT de Raciocínio Clínico e Medicina Baseada em Evidências do PRMFC-SMS/RJ. Aqui serão postadas informações sobre o conteúdo programático das oficinas do GT, bem como será postado material didático para as atividades.</description>
     </item>
     
     <item>
