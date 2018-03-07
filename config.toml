@@ -1,7 +1,7 @@
 baseurl = "/"
 languageCode = "en-us"
 title = "GT de Raciocínio Clínico e Medicina Baseada em Evidências"
-theme = "hugo-lithium-theme"
+theme = "paperback"
 googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
