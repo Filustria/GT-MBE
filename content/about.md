@@ -1,6 +1,6 @@
 ---
-title: "About"
+title: "Sobre"
 date: "2016-05-05T21:48:51-07:00"
 ---
 
-This is a "hello world" example website for the [**blogdown**](https://github.com/rstudio/blogdown) package. The theme was forked from [@jrutheiser/hugo-lithium-theme](https://github.com/jrutheiser/hugo-lithium-theme) and modified by [Yihui Xie](https://github.com/yihui/hugo-lithium-theme).
+Site do GT de Raciocínio Clínico e Medicina Baseada em Evidências do PRMFC-SMS/RJ. Aqui serão postadas informações sobre o conteúdo programático das oficinas do GT, bem como será postado material didático para as atividades. 
