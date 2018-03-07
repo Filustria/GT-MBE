@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "A Hugo website"
+title = "GT de Raciocínio Clínico e Medicina Baseada em Evidências"
 theme = "hugo-lithium-theme"
 googleAnalytics = ""
 disqusShortname = ""
