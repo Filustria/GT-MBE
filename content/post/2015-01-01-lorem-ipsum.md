@@ -1,6 +1,36 @@
 ---
-title: "Lorem Ipsum"
-date: 2015-01-01T13:09:13-06:00
+title: "Brainstorm de temas a serem trabalhados"
 ---
 
-**Lorem ipsum** dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore _magna aliqua_. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+# GT - Raciocínio Clínico e MBE  
+
+
+## Lista de temas a serem trabalhados:  
+
+
+
+(@)  Raciocínio clínico, epidemiologia clínica. Principais equivocos ao redor desses conceitos. Etapas do raciocínio clínico. Apresentação do calendário
+
+(@)  Como utilizar a literatura, como utilizar ferramentas on-line, livros, sites...
+
+(@)  Quadros sindrômicos, como categorizar a queixa do meu paciente dentro de um quadro sindrômico pode me ajudar no meu raciocínio diagnóstico.
+
+(@)  Prevalência dos problemas, probabilidade pré-teste e o mistério da conduta expectante.
+
+(@)  Será que este teste diagnóstico pode me ajudar a saber o que está acontecendo com meu paciente?
+
+(@)  Árvores de decisão clínica, fluxogramas. O que fazer quando não há fluxograma?
+
+(@)  *Será que esta intervenção vai trazer algum benefício para o meu paciente?* 
+
++ Intervenções sobre desfechos dicotômicos
++ Intervenções sobre desfechos escalares
+
+(@)  Como estimar o prognóstico do meu paciente? Como essa variável entra na conta das intervenções a serem feitas com ele?
+
+(@)  Como avaliar custo-efetividade
+
+(@) Rastrear, uma boa ideia que perdeu a linha
+
+(@) Prevenir é sempre o melhor remédio?
